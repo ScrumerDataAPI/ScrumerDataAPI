@@ -17,7 +17,6 @@ O objetivo da nossa equipe é desenvolver uma Aplicação Web de instruções pa
 
 ## Organograma da Equipe
 
-
 ![Organograma](https://user-images.githubusercontent.com/127904356/227740777-c6355492-71a6-4e83-9ff8-4458dc27860b.png)
 
 
@@ -25,18 +24,15 @@ O objetivo da nossa equipe é desenvolver uma Aplicação Web de instruções pa
 
 NOME	|	EMAIL	|	GITHUB	|	CARGO
 ---	|	---	|	---	|	---
-DANIELLE	|	danielle.sismon@fatec.sp.gov.br	|	@DanielleSismon	|	PO
-MATEUS	|	matheus.santo2@fatec.sp.gov.br	|	@matheussanto2	|	Master Scrum
-FRANCIELE	|	franciele.chesere@fatec.sp.gov.br	|	@Chesere	|	Tem Dev
-NATHAN	|	thiago.marcilio@fatec.sp.gov.br	|	@Sathanthiago	|	Tem Dev
-JESSICA	|	jessica.riley@fatec.sp.gov.br	|	@jessicaclifton	|	Tem Dev
-FERNANDO	|	fernando.ferreira32@fatec.sp.gov.br	|	@fnddavi	|	Tem Dev
-LARISSA	|	larissa.candido@fatec.sp.gov.br	|	@larissaxyz	|	Tem Dev
-CLAUDIA	|	claudia.ferreira3@fatec.sp.gov.br	|	@Claudia-Nunes	|	Tem Dev
-NICOLAS	|	nicolas.lemos@fatec.sp.gov.br	|	@Lemos05	|	Tem Dev
-
-
-
+DANIELLE	|	danielle.sismon@fatec.sp.gov.br	|	[@DanielleSismon](https://github.com/DanielleSismon)	|	PO
+MATEUS	|	matheus.santo2@fatec.sp.gov.br	|	[@matheussanto2](https://github.com/matheussanto2)	|	Master Scrum
+FRANCIELE	|	franciele.chesere@fatec.sp.gov.br	|	[@Chesere](https://github.com/ChesereF)|	Tem Dev
+NATHAN	|	thiago.marcilio@fatec.sp.gov.br	|	[@Sathanthiago](https://github.com/Sathanthiago)	|	Tem Dev
+JESSICA	|	jessica.riley@fatec.sp.gov.br	|	[@jessicaclifton](https://github.com/jessicaclifton)	|	Tem Dev
+FERNANDO	|	fernando.ferreira32@fatec.sp.gov.br	|	[@fnddavi](https://github.com/fnddavi)	|	Tem Dev
+LARISSA	|	larissa.candido@fatec.sp.gov.br	|	[@larissaxyz](https://github.com/larissaxyz)	|	Tem Dev
+CLAUDIA	|	claudia.ferreira3@fatec.sp.gov.br	|	[@Claudia-Nunes](https://github.com/Claudia-Nunes)|	Tem Dev
+NICOLAS	|	nicolas.lemos@fatec.sp.gov.br	|	[@Lemos05](https://github.com/Lemos05)	|	Tem Dev
 
 
 ## Referências:
