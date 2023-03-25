@@ -24,15 +24,15 @@ O objetivo da nossa equipe é desenvolver uma Aplicação Web de instruções pa
 
 NOME	|	EMAIL	|	GITHUB	|	CARGO
 ---	|	---	|	---	|	---
-DANIELLE	|	danielle.sismon@fatec.sp.gov.br	|	[@DanielleSismon](https://github.com/DanielleSismon)	|	PO
-MATEUS	|	matheus.santo2@fatec.sp.gov.br	|	[@matheussanto2](https://github.com/matheussanto2)	|	Master Scrum
-FRANCIELE	|	franciele.chesere@fatec.sp.gov.br	|	[@Chesere](https://github.com/ChesereF)|	Tem Dev
-NATHAN	|	thiago.marcilio@fatec.sp.gov.br	|	[@Sathanthiago](https://github.com/Sathanthiago)	|	Tem Dev
-JESSICA	|	jessica.riley@fatec.sp.gov.br	|	[@jessicaclifton](https://github.com/jessicaclifton)	|	Tem Dev
-FERNANDO	|	fernando.ferreira32@fatec.sp.gov.br	|	[@fnddavi](https://github.com/fnddavi)	|	Tem Dev
-LARISSA	|	larissa.candido@fatec.sp.gov.br	|	[@larissaxyz](https://github.com/larissaxyz)	|	Tem Dev
-CLAUDIA	|	claudia.ferreira3@fatec.sp.gov.br	|	[@Claudia-Nunes](https://github.com/Claudia-Nunes)|	Tem Dev
-NICOLAS	|	nicolas.lemos@fatec.sp.gov.br	|	[@Lemos05](https://github.com/Lemos05)	|	Tem Dev
+DANIELLE	|	danielle.sismon@fatec.sp.gov.br	|	[DanielleSismon![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/DanielleSismon)	|	PO
+MATEUS	|	matheus.santo2@fatec.sp.gov.br	|	[matheussanto2![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/matheussanto2)	|	Master Scrum
+FRANCIELE	|	franciele.chesere@fatec.sp.gov.br	|	[Chesere![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/ChesereF)|	Tem Dev
+NATHAN	|	thiago.marcilio@fatec.sp.gov.br	|	[Sathanthiago![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/Sathanthiago)	|	Tem Dev
+JESSICA	|	jessica.riley@fatec.sp.gov.br	|	[jessicaclifton![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/jessicaclifton)	|	Tem Dev
+FERNANDO	|	fernando.ferreira32@fatec.sp.gov.br	|	[fnddavi![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/fnddavi)	|	Tem Dev
+LARISSA	|	larissa.candido@fatec.sp.gov.br	|	[larissaxyz![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/larissaxyz)	|	Tem Dev
+CLAUDIA	|	claudia.ferreira3@fatec.sp.gov.br	|	[Claudia-Nunes![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/Claudia-Nunes)|	Tem Dev
+NICOLAS	|	nicolas.lemos@fatec.sp.gov.br	|	[Lemos05![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/Lemos05)	|	Tem Dev
 
 
 ## Referências:
