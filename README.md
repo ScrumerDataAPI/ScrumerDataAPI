@@ -15,11 +15,6 @@ O objetivo da nossa equipe é desenvolver uma Aplicação Web de instruções pa
     <img alignm alt= "html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
         </div><br>
 
-## Organograma da Equipe
-
-![Organograma](https://user-images.githubusercontent.com/127904356/227740777-c6355492-71a6-4e83-9ff8-4458dc27860b.png)
-
-
 ## Equipe API Fatec Jacareí
 
 NOME	|	EMAIL	|	GITHUB	|	CARGO
@@ -34,6 +29,9 @@ LARISSA	|	larissa.candido@fatec.sp.gov.br	|	[larissaxyz![github (1)](https://use
 CLAUDIA	|	claudia.ferreira3@fatec.sp.gov.br	|	[Claudia-Nunes![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/Claudia-Nunes)|	Tem Dev
 NICOLAS	|	nicolas.lemos@fatec.sp.gov.br	|	[Lemos05![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/Lemos05)	|	Tem Dev
 
+## Organograma da Equipe
+
+![Organograma](https://user-images.githubusercontent.com/127904356/227740777-c6355492-71a6-4e83-9ff8-4458dc27860b.png)
 
 ## Referências:
 
