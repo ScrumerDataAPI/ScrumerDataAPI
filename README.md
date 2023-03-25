@@ -14,22 +14,24 @@
     <img alignm alt= "html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img alignm alt= "html5" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
     <img alignm alt= "html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-    
-    </div><br>
+        </div><br>
 
+## Organograma da Equipe
+![Organograma daquipe]("C:\Users\Claudio\Documents\000-API\ScrumerDataAPI\IMAGENS\Organograma.png")
 ## Equipe API Fatec Jacareí
 
 NOME	|	EMAIL	|	GITHUB	|	CARGO
 ---	|	---	|	---	|	---
-DANIELLE	|	danielle.sismon@fatec.sp.gov.br	|		|	PO
-MATEUS	|	matheus.santo2@fatec.sp.gov.br	|		|	Master Scrum
-FRANCIELE	|	franciele.chesere@fatec.sp.gov.br	|		|	Tem Dev
-NATHAN	|	thiago.marcilio@fatec.sp.gov.br	|		|	Tem Dev
-JESSICA	|	jessica.riley@fatec.sp.gov.br	|		|	Tem Dev
-FERNANDO	|	fernando.ferreira32@fatec.sp.gov.br	|		|	Tem Dev
-LARISSA	|	larissa.candido@fatec.sp.gov.br	|		|	Tem Dev
-CLAUDIA	|	claudia.ferreira3@fatec.sp.gov.br	|	https://github.com/ClaudiaDarlei	|	Tem Dev
-NICOLAS	|	nicolas.lemos@fatec.sp.gov.br	|		|	Tem Dev
+DANIELLE	|	danielle.sismon@fatec.sp.gov.br	|	@DanielleSismon	|	PO
+MATEUS	|	matheus.santo2@fatec.sp.gov.br	|	@matheussanto2	|	Master Scrum
+FRANCIELE	|	franciele.chesere@fatec.sp.gov.br	|	@Chesere	|	Tem Dev
+NATHAN	|	thiago.marcilio@fatec.sp.gov.br	|	@Sathanthiago	|	Tem Dev
+JESSICA	|	jessica.riley@fatec.sp.gov.br	|	@jessicaclifton	|	Tem Dev
+FERNANDO	|	fernando.ferreira32@fatec.sp.gov.br	|	@fnddavi	|	Tem Dev
+LARISSA	|	larissa.candido@fatec.sp.gov.br	|	@larissaxyz	|	Tem Dev
+CLAUDIA	|	claudia.ferreira3@fatec.sp.gov.br	|	@Claudia-Nunes	|	Tem Dev
+NICOLAS	|	nicolas.lemos@fatec.sp.gov.br	|	@Lemos05	|	Tem Dev
+
 
 
 
