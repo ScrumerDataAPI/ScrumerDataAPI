@@ -33,7 +33,9 @@ NICOLAS	|	nicolas.lemos@fatec.sp.gov.br	|	[Lemos05![github (1)](https://user-ima
 
 ## Organograma da Equipe
 
-![Organograma]()
+![Organograma](https://user-images.githubusercontent.com/104475381/227804850-9a1f557e-3504-498d-b549-683cc9d7f023.png)
+
+
 
 ## Referências:
 
