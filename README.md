@@ -1,7 +1,9 @@
 ### Olá Nós somos da equipe do ScumerData 🤓
+<br>
+
 ![ScrumerDataAPI GitHub stats](https://github-readme-stats.vercel.app/api?username=ScrumerDataAPI&show_icons=true&theme=dracula)
 
-O objetivo da nossa equipe é desenvolver uma Aplicação Web de instruções para desenvolvimento de projetos ágeis (SCRUM) na área de TI
+### O objetivo da nossa equipe é desenvolver uma Aplicação Web de instruções para desenvolvimento de projetos ágeis (SCRUM) na área de TI
 
 ## Tecnologias que utilizamos
 
@@ -31,7 +33,7 @@ NICOLAS	|	nicolas.lemos@fatec.sp.gov.br	|	[Lemos05![github (1)](https://user-ima
 
 ## Organograma da Equipe
 
-![Organograma](https://user-images.githubusercontent.com/127904356/227740777-c6355492-71a6-4e83-9ff8-4458dc27860b.png)
+![Organograma]()
 
 ## Referências:
 
