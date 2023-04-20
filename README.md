@@ -1,6 +1,24 @@
-### O objetivo da nossa equipe é desenvolver uma Aplicação Web de instruções para desenvolvimento de projetos ágeis (SCRUM) na área de TI
+# O objetivo da nossa equipe é desenvolver uma Aplicação Web de instruções para desenvolvimento de projetos ágeis (SCRUM) na área de TI
 
-## Tecnologias que utilizamos
+##SPRINT 1
+[1ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/eje8tf3)
+[2ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/e0350wi)
+[3ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/e2r7jwm)
+[4ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/103ji123)
+<br>
+##SPRINT 2
+[1ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/x64dreho)
+[2ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/nei3vav9)
+[3ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/6wkg5o0i)
+[4ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/8wjivepf)
+<br>
+##SPRINT 3
+[1ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/bgkodmh)
+[2ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/82n3l08)
+[3ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/bbxzo2qi)
+[4ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/z5renl38)
+
+# Tecnologias que utilizamos
 
 <div style="display: inline_block"><br>
     <img alignm alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
