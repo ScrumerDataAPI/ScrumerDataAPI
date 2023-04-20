@@ -8,19 +8,22 @@
 [1ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/eje8tf3) →
 [2ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/e0350wi) →
 [3ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/e2r7jwm) →
-[4ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/103ji123) →
+[4ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/103ji123)
 <br>
 **SPRINT 2**
 [1ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/x64dreho) →
 [2ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/nei3vav9) →
 [3ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/6wkg5o0i) →
-[4ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/8wjivepf) →
+[4ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/8wjivepf)
 <br>
 **SPRINT 3**
 [1ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/bgkodmh) →
 [2ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/82n3l08) →
 [3ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/bbxzo2qi) →
-[4ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/z5renl38) →
+[4ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/z5renl38)
+
+[**Repositório GitHub**](https://github.com/ScrumerDataAPI/API) // [**Quadro Kanban**](https://github.com/users/ScrumerDataAPI/projects/8/views/2) // [**Backlog List**](https://github.com/users/ScrumerDataAPI/projects/8)
+
 
 # Tecnologias que utilizamos
 
