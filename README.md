@@ -1,8 +1,3 @@
-### Olá Nós somos da equipe do ScumerData 🤓
-<br>
-
-![ScrumerDataAPI GitHub stats](https://github-readme-stats.vercel.app/api?username=ScrumerDataAPI&show_icons=true&theme=dracula)
-
 ### O objetivo da nossa equipe é desenvolver uma Aplicação Web de instruções para desenvolvimento de projetos ágeis (SCRUM) na área de TI
 
 ## Tecnologias que utilizamos
@@ -16,6 +11,10 @@
     <img alignm alt= "html5" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
     <img alignm alt= "html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
         </div><br>
+
+## Organograma da Equipe
+
+![Organograma](https://user-images.githubusercontent.com/104475381/231306611-1bb7ef33-0d05-4ad9-93c6-4e55073b3b6b.jpg)
 
 ## Equipe API Fatec Jacareí
 
@@ -31,9 +30,7 @@ LARISSA	|	larissa.candido@fatec.sp.gov.br	|	[larissaxyz![github (1)](https://use
 CLAUDIA	|	claudia.ferreira3@fatec.sp.gov.br	|	[Claudia-Nunes![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/Claudia-Nunes)|	Tem Dev
 NICOLAS	|	nicolas.lemos@fatec.sp.gov.br	|	[Lemos05![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/Lemos05)	|	Tem Dev
 
-## Organograma da Equipe
 
-![Organograma](https://user-images.githubusercontent.com/104475381/231306611-1bb7ef33-0d05-4ad9-93c6-4e55073b3b6b.jpg)
 
 
 
