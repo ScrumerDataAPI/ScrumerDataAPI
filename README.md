@@ -1,29 +1,27 @@
-# Site de Treinamento Scrum Scrumer Data 
+<h1 align='center'> Site de Treinamento Scrum Scrumer Data  </h1>
 
-## Acesso Rápido (Links)
+![link (2)](https://user-images.githubusercontent.com/104475381/235953049-06c546c1-aa57-42f2-b8db-0ba5237a5ec4.png) **Acesso Rápido (Links)**
 
-### BrunDown Semanal
+<h2> BrunDown Semanal</h2>
 
 **SPRINT 1**
-[1ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/eje8tf3) →
-[2ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/e0350wi) →
-[3ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/e2r7jwm) →
-[4ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/103ji123)
+[BURNDOWN CHART](https://andreyluiz.com/burn-it-down/#/sprint/eje8tf3)
 <br>
 **SPRINT 2**
-[1ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/x64dreho) →
-[2ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/nei3vav9) →
-[3ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/6wkg5o0i) →
-[4ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/8wjivepf)
+[BURNDOWN CHART](https://andreyluiz.com/burn-it-down/#/sprint/x64dreho)
 <br>
 **SPRINT 3**
-[1ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/bgkodmh) →
-[2ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/82n3l08) →
-[3ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/bbxzo2qi) →
-[4ªSemana](https://andreyluiz.com/burn-it-down/#/sprint/z5renl38)
-
-[**Repositório GitHub**](https://github.com/ScrumerDataAPI/API) // [**Quadro Kanban**](https://github.com/users/ScrumerDataAPI/projects/8/views/2) // [**Backlog List**](https://github.com/users/ScrumerDataAPI/projects/8)
-
+[BURNDOWN CHART](https://andreyluiz.com/burn-it-down/#/sprint/x64dreho)
+<br>
+![img icons8](https://user-images.githubusercontent.com/104475381/235955686-4775a345-5759-402c-a81c-ce01110aebb3.png)
+<h2>REPOSITÓRIO</h2>
+[CLIQUE AUQI](https://github.com/ScrumerDataAPI/API)
+<br>
+<h2>KANBAN</h2>
+[CLIQUE AUQI](https://github.com/users/ScrumerDataAPI/projects/8/views/2) // 
+<br>
+<h2>BACKLOG LIST</h2>
+[CLIQUE AUQI](https://github.com/users/ScrumerDataAPI/projects/8)
 
 # Tecnologias que utilizamos
 
