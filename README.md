@@ -13,17 +13,18 @@
 **SPRINT 3**
 [BURNDOWN CHART](https://andreyluiz.com/burn-it-down/#/sprint/x64dreho)
 <br>
-![img icons8](https://user-images.githubusercontent.com/104475381/235955686-4775a345-5759-402c-a81c-ce01110aebb3.png)
-<h2>REPOSITÓRIO</h2>
-[CLIQUE AUQI](https://github.com/ScrumerDataAPI/API)
+
+<h3> REPOSITÓRIO </h3>
+**API**
+[Clique aqui](https://github.com/ScrumerDataAPI/API)
 <br>
-<h2>KANBAN</h2>
-[CLIQUE AUQI](https://github.com/users/ScrumerDataAPI/projects/8/views/2) // 
+<h3> KANBAN </h3>
+[CLIQUE AUQI](https://github.com/users/ScrumerDataAPI/projects/8/views/2)
 <br>
-<h2>BACKLOG LIST</h2>
+<h3> BACKLOG LIST </h3>
 [CLIQUE AUQI](https://github.com/users/ScrumerDataAPI/projects/8)
 
-# Tecnologias que utilizamos
+## Tecnologias Utilizadas
 
 <div style="display: inline_block"><br>
     <img alignm alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -35,9 +36,6 @@
     <img alignm alt= "html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
         </div><br>
 
-## Organograma da Equipe
-
-![Organograma](https://user-images.githubusercontent.com/104475381/231306611-1bb7ef33-0d05-4ad9-93c6-4e55073b3b6b.jpg)
 
 ## Equipe API Fatec Jacareí
 
@@ -53,9 +51,9 @@ LARISSA	|	larissa.candido@fatec.sp.gov.br	|	[larissaxyz![github (1)](https://use
 CLAUDIA	|	claudia.ferreira3@fatec.sp.gov.br	|	[Claudia-Nunes![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/Claudia-Nunes)|	Tem Dev
 NICOLAS	|	nicolas.lemos@fatec.sp.gov.br	|	[Lemos05![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/Lemos05)	|	Tem Dev
 
+## Organograma da Equipe
 
-
-
+![Organograma](https://user-images.githubusercontent.com/104475381/231306611-1bb7ef33-0d05-4ad9-93c6-4e55073b3b6b.jpg)
 
 ## Referências:
 
