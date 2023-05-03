@@ -25,7 +25,7 @@
 [BURNDOWN CHART](https://andreyluiz.com/burn-it-down/#/sprint/eje8tf3)
 <br>
 **SPRINT 2**
-[BURNDOWN CHART]('https://andreyluiz.com/burn-it-down/#/sprint/x64dreho' target=_blank)
+[BURNDOWN CHART](https://andreyluiz.com/burn-it-down/#/sprint/x64dreho)
 <br>
 **SPRINT 3**
 [BURNDOWN CHART](https://andreyluiz.com/burn-it-down/#/sprint/x64dreho)
