@@ -1,19 +1,22 @@
 <h1 align='center'> Site de Treinamento Scrum Scrumer Data  </h1>
 
 ![link (2)](https://user-images.githubusercontent.com/104475381/235953049-06c546c1-aa57-42f2-b8db-0ba5237a5ec4.png) **Acesso Rápido (Links)**
-
+<br>
+<br>
 ![folder](https://user-images.githubusercontent.com/104475381/235959141-faaeb1c6-25a9-4545-a1f4-41832e8f0fc5.png)
-**REPOSITÓRIO**
-**API**
+**REPOSITÓRIO API**
 [Clique aqui](https://github.com/ScrumerDataAPI/API)
+<br>
 <br>
 ![planning](https://user-images.githubusercontent.com/104475381/235958977-c923e4b1-8a20-4863-9344-0c86ce84caef.png)
  **KANBAN**
 [CLIQUE AUQI](https://github.com/users/ScrumerDataAPI/projects/8/views/2)
 <br>
+<br>
 ![backlog](https://user-images.githubusercontent.com/104475381/235958941-ed63f4ab-3d47-4ecd-83f7-e9d889e1b38c.png)
 **BACKLOG LIST**
 [CLIQUE AUQI](https://github.com/users/ScrumerDataAPI/projects/8)
+<br>
 <br>
 ![growth](https://user-images.githubusercontent.com/104475381/235959262-d2c25637-4372-43b9-bcd2-94c357c23c8c.png)
  **BrunDown Semanal**
