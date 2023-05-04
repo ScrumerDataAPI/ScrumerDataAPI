@@ -10,7 +10,8 @@
 <br>
 ![planning](https://user-images.githubusercontent.com/104475381/235958977-c923e4b1-8a20-4863-9344-0c86ce84caef.png)
  **KANBAN**
-[CLIQUE AUQI](https://github.com/users/ScrumerDataAPI/projects/8/views/2)
+[SPRINT-1](https://github.com/users/ScrumerDataAPI/projects/8/views/2)
+[SPRINT-2](https://github.com/users/ScrumerDataAPI/projects/9)
 <br>
 <br>
 ![backlog](https://user-images.githubusercontent.com/104475381/235958941-ed63f4ab-3d47-4ecd-83f7-e9d889e1b38c.png)
