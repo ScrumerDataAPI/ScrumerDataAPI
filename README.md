@@ -5,31 +5,33 @@
 <br>
 ![folder](https://user-images.githubusercontent.com/104475381/235959141-faaeb1c6-25a9-4545-a1f4-41832e8f0fc5.png)
 **REPOSITÓRIO API**
-[Clique aqui](https://github.com/ScrumerDataAPI/API)
+[Clique Aqui!](https://github.com/ScrumerDataAPI/API)
 <br>
 <br>
 ![planning](https://user-images.githubusercontent.com/104475381/235958977-c923e4b1-8a20-4863-9344-0c86ce84caef.png)
  **KANBAN**
-[SPRINT-1](https://github.com/users/ScrumerDataAPI/projects/8/views/2)
-[SPRINT-2](https://github.com/users/ScrumerDataAPI/projects/9)
+ <br>
+[SPRINT-1 - Clique Aqui!](https://github.com/users/ScrumerDataAPI/projects/8/views/2)
+<br>
+[SPRINT-2 - Clique Aqui!](https://github.com/users/ScrumerDataAPI/projects/9)
 <br>
 <br>
 ![backlog](https://user-images.githubusercontent.com/104475381/235958941-ed63f4ab-3d47-4ecd-83f7-e9d889e1b38c.png)
 **BACKLOG LIST**
-[CLIQUE AUQI](https://github.com/users/ScrumerDataAPI/projects/8)
+[Clique Aqui!](https://github.com/users/ScrumerDataAPI/projects/8)
 <br>
 <br>
 ![growth](https://user-images.githubusercontent.com/104475381/235959262-d2c25637-4372-43b9-bcd2-94c357c23c8c.png)
  **BrunDown Semanal**
 
 **SPRINT 1**
-[BURNDOWN CHART](https://andreyluiz.com/burn-it-down/#/sprint/eje8tf3)
+[BURNDOWN CHART - Clique Aqui!](https://andreyluiz.com/burn-it-down/#/sprint/eje8tf3)
 <br>
 **SPRINT 2**
-[BURNDOWN CHART](https://andreyluiz.com/burn-it-down/#/sprint/x64dreho)
+[BURNDOWN CHART - Clique Aqui!](https://andreyluiz.com/burn-it-down/#/sprint/x64dreho)
 <br>
 **SPRINT 3**
-[BURNDOWN CHART](https://andreyluiz.com/burn-it-down/#/sprint/x64dreho)
+[BURNDOWN CHART - Clique Aqui!](https://andreyluiz.com/burn-it-down/#/sprint/x64dreho)
 <br>
 
 ## Tecnologias Utilizadas
