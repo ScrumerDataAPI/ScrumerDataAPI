@@ -1,5 +1,5 @@
 <h1 align='center'> Site de Treinamento Scrumer Data  </h1>
-<p align='center'>(https://scrumerdataapi.github.io/API/index.html){target="_blank"} </p>
+<p align='center'>(https://scrumerdataapi.github.io/API/index.html)</p>
 <h1></h1>
 
 <h1>Clique 
