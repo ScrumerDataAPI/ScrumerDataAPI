@@ -51,7 +51,7 @@
  <br>
 [SPRINT-1 - Clique Aqui!](https://github.com/ScrumerDataAPI/API/blob/main/Documentos%20e%20Controles/SPRINT%20RETROSPECTIVE%20%2301.pdf)
 <br>
-[SPRINT-2 - Clique Aqui!](https://github.com/ScrumerDataAPI/API/blob/main/Documentos%20e%20Controles/SPRINT%20RETROSPECTIVE%20%2301.pdf)
+[SPRINT-2 - Clique Aqui!](https://github.com/ScrumerDataAPI/API/blob/main/Documentos%20e%20Controles/RetrospectivaSprint3.pdf)
 <br>
 
 ## Tecnologias Utilizadas
