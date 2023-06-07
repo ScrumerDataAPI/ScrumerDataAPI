@@ -1,5 +1,4 @@
 <h1 align='center'> Site de Treinamento Scrumer Data  </h1>
-<p align='center'>(https://scrumerdataapi.github.io/API/index.html)</p>
 <h1></h1>
 
 <h1>Clique 
@@ -44,7 +43,7 @@
 <br>
 [SPRINT-2 - Clique Aqui!](https://andreyluiz.com/burn-it-down/#/sprint/eje8tf3)
 <br>
-[SPRINT-3 - Clique Aqui!](#)
+[SPRINT-3 - Clique Aqui!](https://github.com/ScrumerDataAPI/API/blob/main/Documentos%20e%20Controles/BurnDown_Sprint3.pdf)
 <br>
 <br>
 ![retrospective](https://user-images.githubusercontent.com/127904356/236079834-57bccb67-8829-4f1e-ac8c-d126694d3138.png)
